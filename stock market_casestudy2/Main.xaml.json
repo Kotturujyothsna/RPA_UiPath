@@ -1,0 +1,57 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "GetEmailListConnections_2_Connection0",
+      "DisplayName": "GetEmailListConnections_2_Connection",
+      "Category": null,
+      "Tooltip": "Get Email List",
+      "Placeholder": null,
+      "Widget": "Connection",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 1,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "GetEmailListConnections_2_Connection0_Property0_Metadata",
+      "DisplayName": "GetEmailListConnections_2_Email folder",
+      "Category": null,
+      "Tooltip": "Get Email List",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 2,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "ForEachEmailConnections_1_Connection1",
+      "DisplayName": "ForEachEmailConnections_1_Connection",
+      "Category": null,
+      "Tooltip": "For Each Email",
+      "Placeholder": null,
+      "Widget": "Connection",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 1,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "ForEachEmailConnections_1_Connection1_Property0_Metadata",
+      "DisplayName": "ForEachEmailConnections_1_In email folder",
+      "Category": null,
+      "Tooltip": "For Each Email",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 2,
+      "DataSourceItems": null
+    }
+  ]
+}

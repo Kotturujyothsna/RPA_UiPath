@@ -1,0 +1,58 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "_out_OpenBrowser_1__UiBrowser&Sequence_1",
+        "report&Sequence_1",
+        "reprt&Sequence_1",
+        "outReport&Sequence_1",
+        "out_mail&Sequence_1",
+        "unreadMails&Sequence_1",
+        "strmarketrange&Sequence_13",
+        "data&Sequence_17",
+        "strMarketcap&Sequence_13",
+        "marketcap&Sequence_13",
+        "outdata&Sequence_13",
+        "Emails&Sequence_1",
+        "ListOfUnReadEmails&Sequence_1",
+        "ListOfUnReadMails&Sequence_1",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_2",
+        "ListOfUnReadMails&Sequence_2",
+        "Result&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "Result_out"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

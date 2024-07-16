@@ -1,0 +1,51 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strbusinessemail&Sequence_7",
+        "stritemail&Sequence_7",
+        "listqueueitem&Sequence_2",
+        "arrInputFolder&Sequence_1",
+        "strInput&Sequence_1",
+        "config&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "settingsandconstants&Sequence_6",
+        "sheet&Sequence_6",
+        "assetValue&Sequence_11"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_configfile",
+        "in_configworksheet",
+        "out_configfile"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 align="center">Billing Info</h1>
+
+<form id="form">
+  Invoice Number:<br>
+  <input type="number" id="invoice_number" >
+  <br><br>
+  Customer Name:<br>
+  <input type="text" id="customer_name">
+  <br><br>
+  Location:<br>
+  <input type="text" id="location">
+  <br><br>
+  Phone no:<br>
+  <input type="number" id="phone_no">
+  <br><br>
+  Total:<br>
+  <input type="number" id="total">
+  <br><br>
+ 
+</form>
+<button onclick="myFunction()">Submit</button>
+
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+
+var iNumber = document.getElementById("invoice_number").value;
+var cName = document.getElementById("customer_name").value;
+var location = document.getElementById("location").value;
+var pNumber = document.getElementById("phone_no").value;
+var total = document.getElementById("total").value;
+if(iNumber.length > 0 && cName.length > 0 && location.length > 0 && pNumber.length == 9 && total.length > 0 )
+{
+document.getElementById("demo").innerHTML = Math.random().toString(36).slice(2);
+}else
+{
+document.getElementById("demo").innerHTML = "Error";
+}
+ 
+}
+</script>
+
+</body>
+</html>

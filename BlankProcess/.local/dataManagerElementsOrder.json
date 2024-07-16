@@ -1,0 +1,76 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Excelsheet&Sequence_13",
+        "sheet1&Sequence_13",
+        "dtmastertable&Sequence_17",
+        "currentRow&Sequence_18"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "loan checker_casestudy6.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Excelsheet&Sequence_2",
+        "sheet1&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "case study 6.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "transactiondata&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "cas.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtMasterTable&Sequence_3",
+        "Excelsheet&Sequence_2",
+        "sheet1&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "transetionItem&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "sequence 1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

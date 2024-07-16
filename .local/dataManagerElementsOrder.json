@@ -1,0 +1,74 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "lotteryemployee_casestudy5.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "NumberOfAtempts&Sequence_1",
+        "GuessNumber&Sequence_1",
+        "RandomNumber&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "financial loan checkingcasestudy_7.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Excelsheet&Sequence_13",
+        "sheet1&Sequence_13",
+        "dtmastertable&Sequence_17",
+        "currentRow&Sequence_18"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "financial-loan-checking-casestudy-7/financial loan checkingcasestudy_7.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Excelsheet&Sequence_13",
+        "sheet1&Sequence_13",
+        "dtmastertable&Sequence_17",
+        "currentRow&Sequence_18"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "stock market_casestudy2/Main(Autosaved).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_1",
+        "ListOfUnReadMails&Sequence_1",
+        "ListOfUnReadEmails&Sequence_1",
+        "Emails&Sequence_1",
+        "unreadMails&Sequence_1",
+        "out_mail&Sequence_1",
+        "outReport&Sequence_1",
+        "reprt&Sequence_1",
+        "report&Sequence_1",
+        "_out_OpenBrowser_1__UiBrowser&Sequence_1",
+        "outdata&Sequence_13",
+        "marketcap&Sequence_13",
+        "strMarketcap&Sequence_13",
+        "strmarketrange&Sequence_13",
+        "data&Sequence_17"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

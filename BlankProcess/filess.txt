@@ -1,0 +1,10 @@
+Name,due amount,amount paid,payment
+John,2000,48000,due
+Jane,0,50000,paid
+Albert,0,50000,paid
+Michael,0,50000,paid
+Doug,5000,45000,due
+Jessie,6000,44000,due
+Stan,2000,48000,due
+Michelle,0,50000,paid
+Stacy,1000,49000,due
